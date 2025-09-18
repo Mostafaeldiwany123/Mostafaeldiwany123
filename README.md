@@ -11,9 +11,9 @@ I love building **modern, interactive apps** and exploring the intersection of *
 
 | Project | Description |
 |---------|-------------|
-| 🧩 [**Cubezila**](https://cubezila.com) | A cubing platform + YouTube channel with **60k+ subscribers** |
-| ✍️ [**PromptCrafts**](https://promptcrafts.com) | A platform for sharing and saving **AI prompts** |
-| 🤖 [**Pizony**](https://dulcet-eclair-3152c2.netlify.app/) | My **flagship AI website builder** project |
+| 🧩 <a href="https://cubezila.com" target="_blank">**Cubezila**</a> | A cubing platform + YouTube channel with **60k+ subscribers** |
+| ✍️ <a href="https://promptcrafts.com" target="_blank">**PromptCrafts**</a> | A platform for sharing and saving **AI prompts** |
+| 🤖 <a href="https://dulcet-eclair-3152c2.netlify.app/" target="_blank">**Pizony**</a> | My **flagship AI website builder** project |
 
 💡 *Right now, I’m most focused on **Pizony** — pushing AI-driven web development further.*  
 
@@ -36,8 +36,8 @@ I love building **modern, interactive apps** and exploring the intersection of *
 
 ## 🎥 Content Creation  
 
-- 🧩 **Cubing tutorials & challenges** on [YouTube](https://www.youtube.com/@DailyTifa) (60k+ subs)  
-- 🌐 **Open-source & experimental projects** on GitHub  
+- 🧩 **Cubing tutorials & challenges** on <a href="https://www.youtube.com/@DailyTifa" target="_blank">YouTube</a> (60k+ subs)  
+- 🌐 **Open-source & experimental projects** on <a href="https://github.com/" target="_blank">GitHub</a>  
 - ✍️ **AI + creative coding** explorations  
 
 <hr style="border: 0.5px solid #ddd; margin: 20px 0;" />
