@@ -37,7 +37,6 @@ I love building **modern, interactive apps** and exploring the intersection of *
 ## 🎥 Content Creation  
 
 - 🧩 **Cubing tutorials & challenges** on <a href="https://www.youtube.com/@DailyTifa" target="_blank">YouTube</a> (60k+ subs)  
-- 🌐 **Open-source & experimental projects** on <a href="https://github.com/" target="_blank">GitHub</a>  
 - ✍️ **AI + creative coding** explorations  
 
 <hr style="border: 0.5px solid #ddd; margin: 20px 0;" />
