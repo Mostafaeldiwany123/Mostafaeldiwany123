@@ -13,9 +13,9 @@ I love building **modern, interactive apps** and exploring the intersection of *
 |---------|-------------|
 | 🧩 <a href="https://cubezila.com" target="_blank">**Cubezila**</a> | A cubing platform + YouTube channel with **60k+ subscribers** |
 | ✍️ <a href="https://promptcraftrs.com" target="_blank">**PromptCraftrs**</a> | A platform for sharing and saving **AI prompts** |
-| 🤖 <a href="https://dulcet-eclair-3152c2.netlify.app/" target="_blank">**Pizony**</a> | My **flagship AI website builder** project |
+| 🤖 <a href="https://dulcet-eclair-3152c2.netlify.app/" target="_blank">**Slicy**</a> | My **flagship AI website builder** project |
 
-💡 *Right now, I’m most focused on **Pizony** — pushing AI-driven web development further.*  
+💡 *Right now, I’m most focused on **Slicy** — pushing AI-driven web development further.*  
 
 <hr style="border: 0.5px solid #ddd; margin: 20px 0;" />
 
