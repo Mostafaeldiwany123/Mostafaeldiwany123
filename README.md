@@ -1,53 +1,57 @@
-# Mostafa Eldiwany  
+<h1 align="center">👋 Hey, I'm <span style="color:#00bcd4;">Mostafa Eldiwany</span></h1>
 
-**`(Developer / Content Creator / Cuber)`**  
-
-Hey! I'm **Mostafa Eldiwany**, an 18-year-old self-taught developer from Egypt.  
-I love building **modern, interactive apps** and exploring the intersection of **creativity + technology**.  
-
-<hr style="border: 0.5px solid #ddd; margin: 20px 0;" />
-
-## 🔥 Featured Projects  
-
-| Project | Description |
-|---------|-------------|
-| 🧩 <a href="https://cubezila.com" target="_blank">**Cubezila**</a> | A cubing platform + YouTube channel with **60k+ subscribers** |
-| ✍️ <a href="https://promptcraftrs.com" target="_blank">**PromptCraftrs**</a> | A platform for sharing and saving **AI prompts** |
-| 🤖 <a href="https://dulcet-eclair-3152c2.netlify.app/" target="_blank">**Slicy**</a> | My **flagship AI website builder** project |
-
-💡 *Right now, I’m most focused on **Slicy** — pushing AI-driven web development further.*  
-
-<hr style="border: 0.5px solid #ddd; margin: 20px 0;" />
-
-## 🧰 Languages & Tools  
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" alt="HTML" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" alt="CSS" /> &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" alt="JavaScript" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" alt="TypeScript" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+<p align="center">
+  <b>💻 Developer • 🎓 CIS Student • 🎥 Content Creator • 🧩 Cuber</b><br>
+  <i>Building creative, intelligent, and interactive experiences through code.</i>
 </p>
 
-<hr style="border: 0.1px solid #ddd; margin: 20px 0;" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Egypt 🇪🇬-00bcd4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Age-18-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/College-EUI (CIS Student)-orange?style=for-the-badge" />
+</p>
 
-## 🎥 Content Creation  
+---
 
-- 🧩 **Cubing tutorials & challenges** on <a href="https://www.youtube.com/@DailyTifa" target="_blank">YouTube</a> (60k+ subs)  
-- ✍️ **AI + creative coding** explorations  
+## 🚀 Featured Projects
 
-<hr style="border: 0.5px solid #ddd; margin: 20px 0;" />
+| 🌟 Project | 💡 Description |
+|-------------|----------------|
+| 🧩 [**Cubezila**](https://cubezila.com) | A cubing platform + YouTube brand with **60K+ subscribers** |
+| ✍️ [**PromptCraftrs**](https://promptcraftrs.com) | A community to share, save, and explore **AI prompts** |
+| 🤖 [**Slicy**](https://dulcet-eclair-3152c2.netlify.app/) | My **flagship AI website builder** that generates full working web apps |
 
-## 🌍 About Me  
+> 🧠 *Currently focused on evolving **Slicy**, blending AI reasoning with real web development power.*
 
-- 🌱 Self-taught developer  
-- 🎓 Currently focusing on **React, Firebase & TypeScript**  
-- 💡 Passionate about blending **tech + creativity** (AI tools, web apps, cubing platforms)  
-- 🎯 Typing speed goal: **100 WPM** (currently grinding ⌨️)  
+---
 
-<hr style="border: 0.5px solid #ddd; margin: 20px 0;" />
+## 🧠 Tech Stack
 
-✨ *Always building. Always learning.*  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,firebase,github,vite" />
+</p>
+
+---
+
+## 🎥 Content Creation
+
+🎬 **YouTube Channel:** [@DailyTifa](https://www.youtube.com/@DailyTifa)  
+> - 🧩 Cubing tutorials, challenges, and algorithm breakdowns  
+> - 🤖 AI & creative coding projects  
+
+📊 *60K+ subscribers sharing a passion for cubing + creativity + technology.*
+
+---
+
+## 🌍 About Me
+
+- 🎓 First-year **CIS student** at **EUI (Egypt University for Informatics)**  
+- 💻 **Self-taught developer** who loves crafting modern, functional, and aesthetic apps  
+- ⚛️ Currently diving deep into **React, TypeScript, and Firebase**  
+- 💡 Passionate about **AI-driven web development** and **creative UX design**  
+- ⌨️ Typing speed: **115 WPM** ⚡ (always leveling up)  
+- 🧩 Speedcuber since childhood — problem-solving is my second nature  
+
+---
+
+<h3 align="center">✨ Always building. Always learning. Always improving.</h3>
