@@ -21,7 +21,7 @@
 | ✍️ [**PromptCraftrs**](https://promptcraftrs.com) | A community to share, save, and explore **AI prompts** |
 | 🤖 [**Slicy**](https://dulcet-eclair-3152c2.netlify.app/) | My **flagship AI website builder** that generates full working web apps |
 
-> 🧠 *Currently focused on evolving **Slicy**, blending AI reasoning with real web development power.*
+>  *Currently focused on evolving **Slicy**.*
 
 ---
 
@@ -37,16 +37,15 @@
 
 🎬 **YouTube Channel:** [@DailyTifa](https://www.youtube.com/@DailyTifa)  
 > - 🧩 Cubing tutorials, challenges, and algorithm breakdowns  
-> - 🤖 AI & creative coding projects  
+> - 🤖 AI & coding projects  
 
-📊 *60K+ subscribers sharing a passion for cubing + creativity + technology.*
+📊 *65K+ subscribers sharing a passion for cubing + creativity + technology.*
 
 ---
 
 ## 🌍 About Me
 
 - 🎓 First-year **CIS student** at **EUI (Egypt University for Informatics)**  
-- 💻 **Self-taught developer** who loves crafting modern, functional, and aesthetic apps  
 - ⚛️ Currently diving deep into **React, TypeScript, and Firebase**  
 - 💡 Passionate about **AI-driven web development** and **creative UX design**  
 - ⌨️ Typing speed: **115 WPM** ⚡ (always leveling up)  
