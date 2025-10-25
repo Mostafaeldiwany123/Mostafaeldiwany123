@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Egypt 🇪🇬-00bcd4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Age-18-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/College-EUI (CIS Student)-orange?style=for-the-badge" />
 </p>
 
@@ -45,7 +44,7 @@
 
 ## 🌍 About Me
 
-- 🎓 First-year **CIS student** at **EUI (Egypt University for Informatics)**  
+- 🎓 **CIS student** at **EUI (Egypt University for Informatics)**  
 - ⚛️ Currently diving deep into **React, TypeScript, and Firebase**  
 - 💡 Passionate about **AI-driven web development** and **creative UX design**  
 - ⌨️ Typing speed: **115 WPM** ⚡ (always leveling up)  
