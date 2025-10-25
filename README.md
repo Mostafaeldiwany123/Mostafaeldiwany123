@@ -19,7 +19,7 @@
 |-------------|----------------|
 | 🧩 [**Cubezila**](https://cubezila.com) | A cubing platform + YouTube brand with **60K+ subscribers** |
 | ✍️ [**PromptCraftrs**](https://promptcraftrs.com) | A community to share, save, and explore **AI prompts** |
-| 🤖 [**Slicy**](https://dulcet-eclair-3152c2.netlify.app/) | My **flagship AI website builder** that generates full working web apps |
+| 🤖 [**Slicy**](https://slicy-demo.netlify.app/) | My **flagship AI website builder** that generates full working web apps |
 
 >  *Currently focused on evolving **Slicy**.*
 
