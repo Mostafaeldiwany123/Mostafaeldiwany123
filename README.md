@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00bcd4;">Mostafa Eldiwany</span></h1>
 
 <p align="center">
-  <b>💻 Developer • 🎓 CIS Student • 🎥 Content Creator • 🧩 Cuber</b><br>
-  <i>Building creative, intelligent, and interactive experiences through code.</i>
+<b>💻 Developer • 🎓 CIS Student • 🎥 Content Creator • 🧩 #1 Egyptian Speedcubing Record Holder</b><br>  <i>Building creative, intelligent, and interactive experiences through code.</i>
 </p>
 
 <p align="center">
@@ -13,12 +12,12 @@
 ---
 
 ## 🚀 Featured Projects
-
-| 🌟 Project | 💡 Description |
+| Project | 💡 Description |
 |-------------|----------------|
-| 🧩 [**Cubezila**](https://cubezila.com) | A cubing platform + YouTube brand with **60K+ subscribers** |
-| ✍️ [**PromptCraftrs**](https://promptcraftrs.com) | A community to share, save, and explore **AI prompts** |
-| 🤖 [**Slicy**](https://slicy-demo.netlify.app/) | My **flagship AI website builder** that generates full working web apps |
+| [**Cubezila**](https://cubezila.com) | A cubing platform + YouTube brand with **68K+ subscribers** |
+| [**PromptCraftrs**](https://promptcraftrs.com) | A community to share, save, and explore **AI prompts** |
+| [**Slicy**](https://slicy-demo.netlify.app/) | My **flagship AI website builder** that generates full working web apps |
+| [**Codio**](https://codio-dev.netlify.app/) | Real-time collaborative platform for students to create projects with live commits and friend requests |
 
 >  *Currently focused on evolving **Slicy**.*
 
@@ -38,7 +37,7 @@
 > - 🧩 Cubing tutorials, challenges, and algorithm breakdowns  
 > - 🤖 AI & coding projects  
 
-📊 *65K+ subscribers sharing a passion for cubing + creativity + technology.*
+📊 *68K+ subscribers sharing a passion for cubing + creativity + technology.*
 
 ---
 
@@ -47,7 +46,7 @@
 - 🎓 **CIS student** at **EUI (Egypt University for Informatics)**  
 - ⚛️ Currently diving deep into **React, TypeScript, and Firebase**  
 - 💡 Passionate about **AI-driven web development** and **creative UX design**  
-- ⌨️ Typing speed: **115 WPM** ⚡ (always leveling up)  
+- ⌨️ Typing speed: **125 WPM** ⚡ (always leveling up)  
 - 🧩 Speedcuber since childhood — problem-solving is my second nature  
 
 ---
