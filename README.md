@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00bcd4;">Mostafa Eldiwany</span></h1>
 
 <p align="center">
-<b>💻 Developer • 🎓 CIS Student • 🎥 Content Creator • 🧩 #1 Egyptian Speedcubing Record Holder</b><br>  <i>Building creative, intelligent, and interactive experiences through code.</i>
+<b>💻 Developer • 🎓 CIS Student • 🎥 Content Creator • 🧩 #1 Egyptian Speedcubing Record Holder</b><br>
+<i>Building creative, intelligent, and interactive experiences through code.</i>
 </p>
 
 <p align="center">
@@ -12,14 +13,17 @@
 ---
 
 ## 🚀 Featured Projects
-| Project | 💡 Description |
-|-------------|----------------|
-| [**Cubezila**](https://cubezila.com) | A cubing platform + YouTube brand with **68K+ subscribers** |
-| [**PromptCraftrs**](https://promptcraftrs.com) | A community to share, save, and explore **AI prompts** |
-| [**Slicy**](https://slicy-demo.netlify.app/) | My **flagship AI website builder** that generates full working web apps |
-| [**Codio**](https://codio-dev.netlify.app/) | Real-time collaborative platform for students to create projects with live commits and friend requests |
 
->  *Currently focused on evolving **Slicy**.*
+| Project | 💡 Description |
+|--------|----------------|
+| **[Cubezila](https://cubezila.com)** | Cubing platform + YouTube brand with **68K+ subscribers** |
+| **[PromptCraftrs](https://promptcraftrs.com)** | A community to share, save, and explore **AI prompts** |
+| **[Slicy](https://slicy-demo.netlify.app/)** | My flagship **AI website builder**, capable of generating full working web apps |
+| **[Codio](https://codio-dev.netlify.app/)** | A real-time collaborative platform for students to build projects with live commits & friend requests |
+| **[Domenerate](https://domenerate.netlify.app/)** | AI-powered domain generator that shows **only available** domain names for your brand/company |
+| **[EditMe](https://editme-dev.netlify.app/)** | AI tool that allows you to **edit images instantly** using smart visual transformations |
+
+> *Currently focused on evolving **Slicy**.*
 
 ---
 
@@ -33,21 +37,21 @@
 
 ## 🎥 Content Creation
 
-🎬 **YouTube Channel:** [@DailyTifa](https://www.youtube.com/@DailyTifa)  
+🎬 **YouTube:** [@DailyTifa](https://www.youtube.com/@DailyTifa)  
 > - 🧩 Cubing tutorials, challenges, and algorithm breakdowns  
 > - 🤖 AI & coding projects  
 
-📊 *68K+ subscribers sharing a passion for cubing + creativity + technology.*
+📊 *68K+ subscribers sharing a passion for cubing, creativity, and smart tech.*
 
 ---
 
 ## 🌍 About Me
 
 - 🎓 **CIS student** at **EUI (Egypt University for Informatics)**  
-- ⚛️ Currently diving deep into **React, TypeScript, and Firebase**  
-- 💡 Passionate about **AI-driven web development** and **creative UX design**  
-- ⌨️ Typing speed: **125 WPM** ⚡ (always leveling up)  
-- 🧩 Speedcuber since childhood — problem-solving is my second nature  
+- ⚛️ Learning and building with **React, TypeScript, Firebase, and AI tools**  
+- 💡 Passionate about **AI-driven development**, creative UI/UX, and automation  
+- ⌨️ Typing speed: **125 WPM** ⚡  
+- 🧩 Speedcuber since childhood — problem-solving is built into my DNA  
 
 ---
 
