@@ -19,8 +19,8 @@
 | **[Cubezila](https://cubezila.com)** | Cubing platform + YouTube brand with **68K+ subscribers** |
 | **[PromptCraftrs](https://promptcraftrs.com)** | A community to share, save, and explore **AI prompts** |
 | **[Slicy](https://slicy-demo.netlify.app/)** | My flagship **AI website builder**, capable of generating full working web apps |
-| **[Codio](https://codio-dev.netlify.app/)** | A real-time collaborative platform for students to build projects with live commits & friend requests |
-| **[Domenerate](https://domenerate.netlify.app/)** | AI-powered domain generator that shows **only available** domain names for your brand/company |
+| **[syntaxable](https://syntaxable.org/)** | A real-time collaborative platform for students to build projects with live commits & friend requests |
+| **[Domenerate](https://domenerate.com)** | AI-powered domain generator that shows **only available** domain names for your brand/company |
 | **[EditMe](https://editme-dev.netlify.app/)** | AI tool that allows you to **edit images instantly** using smart visual transformations |
 
 > *Currently focused on evolving **Slicy**.*
