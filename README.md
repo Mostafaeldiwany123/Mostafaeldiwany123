@@ -1,58 +1,45 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#00bcd4;">Mostafa Eldiwany</span></h1>
+<h1 align="left">Mostafa Eldiwany</h1>
 
-<p align="center">
-<b>💻 Developer • 🎓 CIS Student • 🎥 Content Creator • 🧩 #1 Egyptian Speedcubing Record Holder</b><br>
-<i>Building creative, intelligent, and interactive experiences through code.</i>
-</p>
+| Project | Description |
+|-------|-------------|
+| **[Cubezila](https://cubezila.com)** | Cubing platform, 68K+ subscribers |
+| **[PromptCraftrs](https://promptcraftrs.com)** | Community for sharing and saving AI prompts |
+| **[Slicy](https://slicy.dev)** | AI website builder that generates working web apps |
+| **[syntaxable](https://syntaxable.org/)** | Real-time collaborative coding platform |
+| **[Domenerate](https://domenerate.com)** | AI domain name generator showing only available domains |
+| **[EditMe](https://editme-dev.netlify.app/)** | AI tool for instant image editing |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Egypt 🇪🇬-00bcd4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/College-EUI (CIS Student)-orange?style=for-the-badge" />
-</p>
+Currently focused on improving **Slicy**.
 
----
+## Tech Stack
 
-## 🚀 Featured Projects
-
-| Project | 💡 Description |
-|--------|----------------|
-| **[Cubezila](https://cubezila.com)** | Cubing platform + YouTube brand with **68K+ subscribers** |
-| **[PromptCraftrs](https://promptcraftrs.com)** | A community to share, save, and explore **AI prompts** |
-| **[Slicy](https://slicy-demo.netlify.app/)** | My flagship **AI website builder**, capable of generating full working web apps |
-| **[syntaxable](https://syntaxable.org/)** | A real-time collaborative platform for students to build projects with live commits & friend requests |
-| **[Domenerate](https://domenerate.com)** | AI-powered domain generator that shows **only available** domain names for your brand/company |
-| **[EditMe](https://editme-dev.netlify.app/)** | AI tool that allows you to **edit images instantly** using smart visual transformations |
-
-> *Currently focused on evolving **Slicy**.*
-
----
-
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,firebase,github,vite" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,css,tailwind,ts,supabase,github,vite" />
 </p>
 
 ---
 
-## 🎥 Content Creation
+## Content
 
-🎬 **YouTube:** [@DailyTifa](https://www.youtube.com/@DailyTifa)  
-> - 🧩 Cubing tutorials, challenges, and algorithm breakdowns  
-> - 🤖 AI & coding projects  
+YouTube: https://www.youtube.com/@DailyTifa  
 
-📊 *68K+ subscribers sharing a passion for cubing, creativity, and smart tech.*
+Content about cubing, coding projects, and AI tools.
 
 ---
 
-## 🌍 About Me
+## About
 
-- 🎓 **CIS student** at **EUI (Egypt University for Informatics)**  
-- ⚛️ Learning and building with **React, TypeScript, Firebase, and AI tools**  
-- 💡 Passionate about **AI-driven development**, creative UI/UX, and automation  
-- ⌨️ Typing speed: **125 WPM** ⚡  
-- 🧩 Speedcuber since childhood — problem-solving is built into my DNA  
+- CIS student at Egypt University for Informatics  
+- Building projects with React, TypeScript, and AI
+- Interested in automation and UI design
+- Typing speed: 125 WPM  
 
 ---
 
-<h3 align="center">✨ Always building. Always learning. Always improving.</h3>
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
