@@ -17,15 +17,14 @@ Currently focused on improving **Slicy**.
   <img src="https://skillicons.dev/icons?i=react,css,tailwind,ts,supabase,github,vite" />
 </p>
 
----
-
 ## Content
 
-YouTube: https://www.youtube.com/@DailyTifa  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@tifabuild)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@tifa_build)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mostafa_eldiwany123/)
 
 Content about cubing, coding projects, and AI tools.
 
----
 
 ## About
 
@@ -34,7 +33,6 @@ Content about cubing, coding projects, and AI tools.
 - Interested in automation and UI design
 - Typing speed: 125 WPM  
 
----
 
 ## Contributions
 
