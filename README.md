@@ -1,16 +1,5 @@
 <h1 align="center">Mostafa Eldiwany</h1>
 
-| Project | Description |
-|-------|-------------|
-| **[Cubezila](https://cubezila.com)** | Cubing platform, 68K+ subscribers |
-| **[PromptCraftrs](https://promptcraftrs.com)** | Community for sharing and saving AI prompts |
-| **[Slicy](https://slicy.dev)** | AI website builder that generates working web apps |
-| **[syntaxable](https://syntaxable.org/)** | Real-time collaborative coding platform |
-| **[Domenerate](https://domenerate.com)** | AI domain name generator showing only available domains |
-| **[EditMe](https://editme-dev.netlify.app/)** | AI tool for instant image editing |
-
-Currently focused on improving **Slicy**.
-
 ## Tech Stack
 
 <p align="left">
