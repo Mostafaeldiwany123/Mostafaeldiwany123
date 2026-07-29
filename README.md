@@ -8,9 +8,7 @@
 
 Building web apps with React, TypeScript, and a growing AI habit, and posting about it on the side.
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@tifabuild)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@tifa_build)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mostafa_eldiwany123/)
+[YouTube](https://www.youtube.com/@tifabuild) · [TikTok](https://www.tiktok.com/@tifa_build) · [Instagram](https://www.instagram.com/mostafa_eldiwany123/)
 
 </div>
 
@@ -30,8 +28,8 @@ React, TypeScript, Tailwind CSS, Vite, Supabase, Git/GitHub
 ### GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mostafaeldiwany123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafaeldiwany123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Mostafaeldiwany123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mostafaeldiwany123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <div align="center">
